@@ -35,7 +35,7 @@ Approximately 290 hours completed through the **Cisco Networking Academy (NetAca
 ---
 
 
-### 1. Introduction to Networks
+### I. Introduction to Networks
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="16"/>
 
 - Networking Today, Basic Switch and End Device Configuration, Protocols and Models, Physical & Data Link Layers, Ethernet Switching, Network Layer, Address Resolution
@@ -60,7 +60,7 @@ Approximately 290 hours completed through the **Cisco Networking Academy (NetAca
 
 ---
 
-### 2. Switching, Routing, and Wireless Essentials
+### II. Switching, Routing, and Wireless Essentials
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="16"/>
 
 - Configure a Switch with Initial Settings, Switch Boot Sequence, Switch Management Access, Configure Switch Ports, Duplex Communication, Auto-MDIX
@@ -90,7 +90,7 @@ Approximately 290 hours completed through the **Cisco Networking Academy (NetAca
 
 ---
 
-### 3. Enterprise Networking, Security, and Automation
+### III. Enterprise Networking, Security, and Automation
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="16"/>
 
 - Routing concepts, OSPFv2 single-area, Network security, Layer 2 ACL security, NAT/PAT, SNMP, QoS, VPN and IPsec concepts
@@ -119,7 +119,7 @@ Approximately 290 hours completed through the **Cisco Networking Academy (NetAca
 
 ---
 
-### 4. Bridging and Advanced Topics
+### IV. Bridging and Advanced Topics
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="16"/>
 
 - Device Discovery with CDP, LLDP, NTP, SNMP, Syslog, IOS Image Management, Router and Switch File Maintenance
