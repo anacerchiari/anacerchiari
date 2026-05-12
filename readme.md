@@ -182,32 +182,4 @@ This **README** is updated approximately **once a week**. Due to high demand, if
 
 
 
----
-
-## Technology Studies
-
-| Category | Details |
-|----------|---------|
-| <img src="https://cdn.simpleicons.org/cncf" height="16"> Cloud & DevOps | AWS (Ka Solutions / AWS Educate), Docker and Kubernetes (4Linux), Observability – Prometheus and Grafana (4Linux), Serverless (Udemy / Alura) |
-| <img src="https://cdn.simpleicons.org/linux" height="16"> Infrastructure & Systems | Windows Server (Impacta and others), SysAdmin and Python (4Linux), Networking and Fiber Networks (Impacta / Domínio Tecnologia) |
-| <img src="https://cdn.simpleicons.org/mysql" height="16"> Databases | MongoDB, MySQL, Oracle and SQL Server (4Linux) |
-| <img src="https://cdn.simpleicons.org/openjdk" height="16"> Development | Java (Impacta), PHP and Web MySQL Front/Backend (4Linux), Angular, ReactJS, jQuery, Quarkus, Python (Udemy / Alura) |
-
----
-
-## 📅 **Update Frequency**  
-
-This **README** is updated approximately **once a week**. Due to high demand, if I haven’t responded to your message, please resend it.
-
----
-
-## 🎯 Professional Goal
-- Cloud Architecture (IaaS) and Software Engineering
-
-
-
-
-
-
-
 
